@@ -3,6 +3,8 @@
 ###### This is the smallest heading
 
 
+[This links to another page](anotherPage.md)
+
 The following is an example code block. This is my FizzBuzz solution from earlier in the semester.
 ```
 <!DOCTYPE html>
