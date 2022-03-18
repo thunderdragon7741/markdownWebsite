@@ -7,7 +7,7 @@
 
 [This links to yet another markdown page](yetAnotherPage.md)
 
-[This links to an external website](www.uwa.edu.au)
+[This links to an external website](https://www.uwa.edu.au)
 
 [This links to yet another website](https://en.wikipedia.org/wiki/Dragon)
 
