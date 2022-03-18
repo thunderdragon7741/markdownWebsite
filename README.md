@@ -5,7 +5,7 @@
 
 [This links to another page](anotherPage.md)
 
-The following is an example **code block**. This is my __FizzBuzz__ solution from earlier in the semester.
+The following is an example **code block**. This is my * *FizzBuzz* * solution from earlier in the semester.
 ```
 <!DOCTYPE html>
 <html>
