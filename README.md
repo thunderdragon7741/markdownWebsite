@@ -1,5 +1,9 @@
-# markdownWebsite
+# This is a markdown website example
+## This is the second largest heading
+###### This is the smallest heading
 
+
+The following is an example code block. This is my FizzBuzz solution from earlier in the semester.
 ```
 <!DOCTYPE html>
 <html>
