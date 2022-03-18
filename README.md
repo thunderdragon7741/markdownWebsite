@@ -7,9 +7,9 @@
 [This links to an external website](www.uwa.edu.au)
 
 This is a **list**:
-* First item;
-* Second item;
-* Last item.
+* *First* item;
+* *Second* item;
+* *Last* item.
 
 The following is an example **code block**. This is my *FizzBuzz* solution from earlier in the semester.
 ```
