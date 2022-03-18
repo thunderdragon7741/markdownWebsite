@@ -3,7 +3,7 @@
 ###### This is the smallest heading
 
 
-[This links to another page](anotherPage.md)
+[This links to another markdown page](anotherPage.md)
 
 [This links to an external website](www.uwa.edu.au)
 
