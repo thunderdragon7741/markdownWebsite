@@ -4,7 +4,12 @@
 
 
 [This links to another page](anotherPage.md)
+
 [This links to an external website](www.uwa.edu.au)
+
+![This is an image hosted on this repo](dragon.jpg)
+
+![This is an image hosted on wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg/1024px-Friedrich-Johann-Justin-Bertuch_Mythical-Creature-Dragon_1806.jpg)
 
 This is a **list**:
 * *First* item;
